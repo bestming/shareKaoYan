@@ -59,7 +59,7 @@ PS:
 
 ![avatar][考研B区]
 
-
+![image](https://bestming.github.io/shareKaoYan//img/kaoyan_b_space.png)
 
 
 一区即A区包括：北京、天津、河北、山西、辽宁、吉林、黑龙江、上海、江苏、浙江、安徽、福建、江西、山东、河南、湖北、湖南、广东、重庆、四川、陕西。
