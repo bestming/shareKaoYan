@@ -394,7 +394,7 @@ https://github.com/hao14293/2020-Postgraduate-408
 # 刘丽婷 学姐 经验分享：
 
 
-123
+[PPT下载](https://bestming.github.io/shareKaoYan//file/liu_li_ting.pptx "https://bestming.github.io/shareKaoYan//file/liu_li_ting.pptx")
 
 
 
@@ -408,7 +408,7 @@ https://github.com/hao14293/2020-Postgraduate-408
 
 
 
-123
+[PPT下载](https://bestming.github.io/shareKaoYan//file/wang_long.pptx "https://bestming.github.io/shareKaoYan//file/wang_long.pptx")
 
 
 
