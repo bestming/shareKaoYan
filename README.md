@@ -381,6 +381,9 @@ PS:
 
 有位跨考的兄弟想考计算机的，复习资料建议买**王道**的或者**高分笔记**
 
+
+想跨考408之前，先可以看一看这个知乎的问题，回答得很真实：[考研408究竟有多难？](https://www.zhihu.com/question/42012532/answer/340994307 "考研408究竟有多难？")
+
 https://github.com/SSHeRun/CS-Xmind-Note
 
 https://github.com/hao14293/2020-Postgraduate-408
