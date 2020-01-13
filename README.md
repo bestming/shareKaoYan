@@ -86,6 +86,17 @@ PS:
 
 可以看一看这个知乎的问题，回答得很真实：[为什么有很多人去读双非研究生？](https://www.zhihu.com/question/67879723 "为什么有很多人去读双非研究生？")
 
+
+![image](https://bestming.github.io/shareKaoYan//img/why.png)
+
+如果不够直观的话，看一下 **高考金字塔录取率** 
+
+
+
+![image](https://bestming.github.io/shareKaoYan//img/pyramids.jpg)
+
+也就是说，你能上个一本的研究生已经是同龄人的前5.97%了（至少是这么多，因为这是高考一本录取率，实际上考上研究生的总人数就100万人左右）
+
 我们就选择100-200名之间的学校比较稳。
 
 三个目标:每个目标选好三个学校
